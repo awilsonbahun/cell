@@ -1,0 +1,2 @@
+public class CorticalCell extends NerveCell{
+}
