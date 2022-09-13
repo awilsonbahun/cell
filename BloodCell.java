@@ -1,4 +1,2 @@
-public class WhiteBCell extends BloodCell{
-}
-public class RedBCell extends BloodCell{
+public class BloodCell extends Cell{
 }
