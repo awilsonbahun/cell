@@ -1,4 +1,2 @@
-public class Pyramidal extends NerveCell{
-}
-public class CorticalCell extends NerveCell{
+public class NerveCell extends Cell{
 }
